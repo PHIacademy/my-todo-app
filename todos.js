@@ -1,4 +1,5 @@
 export function addTodo(todos, text) {
+  // no check that text is non-empty — Code Quality agent should flag this
   todos.push({ id: todos.length + 1, text, done: false });
   return todos;
 }
