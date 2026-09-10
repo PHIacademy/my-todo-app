@@ -17,8 +17,8 @@ This repo isn't a real product — it exists purely to give the code review orch
 | PR | Title | Status |
 |----|-------|--------|
 | #1 | add clean code fixture | Merged |
-| #2 | Add search functionality for todos | Open |
-| #3 | Add premium subscription features | Open |
+| #2 | Add search functionality for todos | Merged |
+| #3 | Add premium subscription features | Merged |
 
 ## Note on origin
 
